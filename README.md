@@ -55,7 +55,7 @@ Give an example
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
-Este proyecto tendrá su deploy en netlify
+Este proyecto tendrá su deploy en netlify: https://modernizate-panama.netlify.app/index.html
 
 
 ## Built With
@@ -66,7 +66,7 @@ Este proyecto tendrá su deploy en netlify
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Para contribuir necesitaremos algun contenido para la página
 
 ## Versioning
 
